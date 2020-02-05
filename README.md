@@ -13,3 +13,5 @@ Commit the initial set of files
 Push up to the remote repository
 
 Require to run in the project directory: npm install chalk clear clui figlet inquirer minimist preferences github lodash simple-git touch --save
+
+To install globally: npm install -g 
