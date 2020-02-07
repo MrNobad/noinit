@@ -2,7 +2,7 @@
 
 Noinit "Git init" on steroids.
 
-The app will do:
+The app will:
 
 Initialise the local repository by running git init
 
